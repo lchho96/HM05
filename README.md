@@ -26,3 +26,6 @@ html5 class
 - wk09 upload
   - 파일 22개 올림
   - calc를 사용해 계산기를 사용하는법을 
+- wk10 upkoad
+  - 파일 14개 올림
+  - do-while문을 이용해 계산하는 법을 
