@@ -29,3 +29,6 @@ html5 class
 - wk10 upkoad
   - 파일 14개 올림
   - do-while문을 이용해 계산하는 법을 
+- wk11 upload
+  - 파일 14개 올림
+  - 객체의 종류들을 
